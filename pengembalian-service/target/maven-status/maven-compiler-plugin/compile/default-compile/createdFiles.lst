@@ -1,0 +1,10 @@
+com\bintang\pengembalian\service\repository\PengembalianRepository.class
+com\bintang\pengembalian\service\service\PengembalianService.class
+com\bintang\pengembalian\service\VO\Anggota.class
+com\bintang\pengembalian\service\VO\Buku.class
+com\bintang\pengembalian\service\VO\Peminjaman.class
+com\bintang\pengembalian\service\controller\PengembalianContoller.class
+com\bintang\pengembalian\service\VO\ResponseTemplateVOPinjam.class
+com\bintang\peminjaman\service\entity\Pengembalian.class
+com\bintang\pengembalian\service\PengembalianServiceApplication.class
+com\bintang\pengembalian\service\VO\ResponseTemplateVo.class
